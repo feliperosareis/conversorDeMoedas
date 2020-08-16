@@ -1,0 +1,10 @@
+F:\Univali\PDP - Programming and Data Persistence\ConversorDeMoedas\bin\Debug\ConversorDeMoedas.exe.config
+F:\Univali\PDP - Programming and Data Persistence\ConversorDeMoedas\bin\Debug\ConversorDeMoedas.exe
+F:\Univali\PDP - Programming and Data Persistence\ConversorDeMoedas\bin\Debug\ConversorDeMoedas.pdb
+F:\Univali\PDP - Programming and Data Persistence\ConversorDeMoedas\obj\Debug\ConversorDeMoedas.csprojAssemblyReference.cache
+F:\Univali\PDP - Programming and Data Persistence\ConversorDeMoedas\obj\Debug\ConversorDeMoedas.Properties.Resources.resources
+F:\Univali\PDP - Programming and Data Persistence\ConversorDeMoedas\obj\Debug\ConversorDeMoedas.csproj.GenerateResource.cache
+F:\Univali\PDP - Programming and Data Persistence\ConversorDeMoedas\obj\Debug\ConversorDeMoedas.csproj.CoreCompileInputs.cache
+F:\Univali\PDP - Programming and Data Persistence\ConversorDeMoedas\obj\Debug\ConversorDeMoedas.exe
+F:\Univali\PDP - Programming and Data Persistence\ConversorDeMoedas\obj\Debug\ConversorDeMoedas.pdb
+F:\Univali\PDP - Programming and Data Persistence\ConversorDeMoedas\obj\Debug\ConversorDeMoedas.frmConversor.resources
